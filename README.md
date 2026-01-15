@@ -4,6 +4,13 @@
   <img src="banner.png" alt="Banner" />
 </p>
 
+<h1 align="center">🎮 Mustafa Yıldız / Game Developer 🎮</h1>
+
+<p align="center">
+  <b>Unity & C# Focused Game Developer</b>
+</p>
+
+
 - 🔭 I’m currently working on Game 
 - 🌱 I’m currently learning Unity, C# and React Native
 - 💬 Ask me about Game Development
