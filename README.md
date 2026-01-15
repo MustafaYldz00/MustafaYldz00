@@ -44,22 +44,8 @@ Currently working on game mechanics, level design, and optimized gameplay system
 - ⚙️ Gameplay mechanics & AI systems
 - 🧩 Puzzle & platformer prototypes
 - 📈 Optimization & architecture improvements
-
----
-
-## 📌 Featured Projects
-
-### 🎮 Maze Rotate
-- Unity-based maze puzzle game  
-- UI systems & gameplay mechanics  
-
-### 🎮 2D Platformer Game
-- Basic enemy AI  
-- Level design & UI integration  
-
-👉 Check my repositories for more projects.
-
----
+- 👉 Check my repositories for more projects.
+--- 
 
 ## 🌱 Goals
 
