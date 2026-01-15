@@ -88,6 +88,32 @@ Currently working on game mechanics, level design, and optimized gameplay system
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="40"/>
   </a>
 </p>
+## 🌐 My Socials
+
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="LINKEDIN_URL" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Mail -->
+  <a href="mailto:MAIL_ADRESIN">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/new-post.png" width="42"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Instagram -->
+  <a href="INSTAGRAM_URL" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="42"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- YouTube -->
+  <a href="YOUTUBE_URL" target="_blank">
+    <img src="https://img.icons8.com/color/48/youtube-play.png" width="42"/>
+  </a>
+</p>
 
 ---
 
