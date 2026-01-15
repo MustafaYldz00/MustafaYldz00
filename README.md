@@ -72,45 +72,22 @@ Currently working on game mechanics, level design, and optimized gameplay system
 ## 🌐 My Socials
 
 <p align="center">
-  <a href="www.linkedin.com/in/mustafa-şükrü-yıldız" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:mstfyldz1285@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/new-post.png" width="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/yildiz.sukru154/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="www.youtube.com/@DreamBitGames" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="40"/>
-  </a>
-</p>
-## 🌐 My Socials
-
-<p align="center">
-  <!-- LinkedIn -->
-  <a href="LINKEDIN_URL" target="_blank">
+   <a href="www.linkedin.com/in/mustafa-şükrü-yıldız" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-
-  <!-- Mail -->
-  <a href="mailto:MAIL_ADRESIN">
+  
+ <a href="mailto:mstfyldz1285@gmail.com">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/new-post.png" width="42"/>
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <!-- Instagram -->
-  <a href="INSTAGRAM_URL" target="_blank">
+ <a href="https://www.instagram.com/yildiz.sukru154/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="42"/>
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <!-- YouTube -->
-  <a href="YOUTUBE_URL" target="_blank">
+ <a href="www.youtube.com/@DreamBitGames" target="_blank">
     <img src="https://img.icons8.com/color/48/youtube-play.png" width="42"/>
   </a>
 </p>
