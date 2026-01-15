@@ -1,5 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Mustafa Şükrü YILDIZ</h1> 
 
+<p align="center">
+  <img src="[BANNER_IMAGE_URL](https://raw.githubusercontent.com/MustafaYldz00/MustafaYldz00/refs/heads/main/assets/banner.jfif)" alt="Banner" />
+</p>
+
 - 🔭 I’m currently working on Game 
 - 🌱 I’m currently learning Unity, C# and React Native
 - 💬 Ask me about Game Development
