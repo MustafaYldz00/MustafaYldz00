@@ -81,11 +81,11 @@ Currently working on game mechanics, level design, and optimized gameplay system
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/yildiz.sukru154/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="www.youtube.com/@DreamBitGames" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="40"/>
   </a>
 </p>
 
