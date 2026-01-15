@@ -7,8 +7,9 @@
 <h1 align="center">🎮 Mustafa Yıldız / Game Developer 🎮</h1>
 
 <p align="center">
-  <b>Unity & C# Focused Game Developer</b>
+  <img src="https://komarev.com/ghpvc/?username=GITHUB_USERNAME&style=flat-square&color=blue" />
 </p>
+
 
 
 - 🔭 I’m currently working on Game 
